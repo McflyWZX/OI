@@ -41,5 +41,17 @@
     <ClCompile Include="走迷宫.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="走迷宫2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="随机数生成器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复杂度(未完成).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="信仰收集(图论).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
