@@ -18,7 +18,7 @@ void rotate(const ui &x, const ui &y, const ui &r, const ui &z)
 	for (ui i = 1; i <= r; i++)
 	{
 		ui *TL = new ui[2 * i];
-		memcpy(TL, mat[y + i] + x - i + 1, 2 * i * sizeof TL);
+		memcpy(TL, mat[y + i] + x - i + 1, 2 * i * sizeof(int));
 		if (z)
 		{
 			for (ui j = -i + 1; j <= i; j++)
