@@ -56,5 +56,11 @@
     <ClCompile Include="旋转矩阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="快速幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
