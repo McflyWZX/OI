@@ -62,5 +62,8 @@
     <ClCompile Include="QuickSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="朴素LCA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
