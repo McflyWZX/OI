@@ -65,5 +65,11 @@
     <ClCompile Include="朴素LCA.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EveryDayRunning.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AngryBirds.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
