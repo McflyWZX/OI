@@ -71,5 +71,8 @@
     <ClCompile Include="AngryBirds.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="NotGoAI(P4997).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
